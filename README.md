@@ -4,3 +4,4 @@ First change in the readme-change branch
 Change in master to check conflicts
 bla-bla-test
 second edit
+third edit
